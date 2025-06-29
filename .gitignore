@@ -1,0 +1,7 @@
+/temp*
+.env
+/papers
+.DS_Store
+__pycache__
+/chroma_store
+
