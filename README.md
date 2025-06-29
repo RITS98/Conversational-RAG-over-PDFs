@@ -23,7 +23,36 @@ Users upload PDFs, which are processed and embedded into a vector store. The app
 
 ## Demo
 
-> _Coming soon!_ (Optionally, add a hosted demo link here.)
+### App Demo
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/f8119506-3943-40f5-8b06-8c17bcf69914" />
+<br>
+<img width="1673" alt="image" src="https://github.com/user-attachments/assets/015d3d18-d5ee-45db-8d5f-22f432a0306d" />
+<br>
+
+### Langsmith Tracking
+
+<img width="1694" alt="image" src="https://github.com/user-attachments/assets/b4573541-6f49-49ce-a06d-1a7a1bdbcb11" />
+<br>
+<img width="1697" alt="image" src="https://github.com/user-attachments/assets/a732ad49-ea1c-48c8-86fa-5ac7dc028741" />
+<br>
+<img width="1691" alt="image" src="https://github.com/user-attachments/assets/8552d13a-1c6c-4750-837d-c51d0e214f8e" />
+<br>
+<img width="1701" alt="image" src="https://github.com/user-attachments/assets/dc2457a9-4378-448e-a0a2-23217bd7699e" />
+
+### GROQ Cloud
+
+<img width="1704" alt="image" src="https://github.com/user-attachments/assets/3fc697a7-816c-4fe5-9372-b64def3f853d" />
+<br>
+<img width="1699" alt="image" src="https://github.com/user-attachments/assets/fad9d8cc-3a73-430f-8c38-a2dec6a190b4" />
+<br>
+<img width="1701" alt="image" src="https://github.com/user-attachments/assets/bb4caa50-75ee-47e6-ada3-d53991ffd1d8" />
+
+
+
+
+
+
+
 
 ---
 
